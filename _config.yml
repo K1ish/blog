@@ -1,12 +1,12 @@
 title: blog
 description: "My Personal Blog"
 author: "Keegan Harris"
-logo: /hcz-jekyll-blog/static/img/avatar.png
+logo: /static/img/avatar.png
 github: https://github.com/K1ish
 about: Developer
 
 baseurl: "http://b.k1i.me"
-url: "http://b.k1i.me
+url: "http://b.k1i.me"
 
 disqus_shortname: K1ish
 google_analytics: UA-72862926-1
